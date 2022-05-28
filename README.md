@@ -1,14 +1,10 @@
 <h1 align="center"> <a href='http://ten-juice.surge.sh/'>
   LabeX 
-  <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/pikachu.png" width="40" height="40" emoji-code="Pokebola" alt="Pokebola" />
-  </a></h1>
+ </h1>
 <div align="center"> 
   
   ### Criação de Site de Viagens
   
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/Y4kZokSLJov84J421T/giphy.gif" width="300" height="400" />
 </div>
 
 ### :iphone: Funcionalidades
