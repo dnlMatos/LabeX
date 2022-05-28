@@ -7,6 +7,7 @@
   
 </div>
 
+### That's desktop version. Use npm install react-router-dom@5.3.0
 ### :iphone: Funcionalidades
 
 - [x] Autenticação de usuário.
